@@ -19,11 +19,12 @@ const channels = {
   '908104160908550164': 'Yukiria',
   '1006953952279007403': 'Yumii',
   '1051438820169613383': 'Anime France',
+  '1094999661489688686': 'ChillCamp',
   '946242935324823553': 'Kaori'
 };
 
 // Liste des fichiers à envoyer dans chaque canal
-const messageFiles = ['./iraku.txt', './nightroom.txt', './asuu.txt', './mayko.txt', './mizushi.txt', './miruki.txt', './lesrenards.txt', './ayume.txt', './sakana.txt', './teyvat.txt', './yukiria.txt', './yumii.txt', './animefrance.txt', './kaori.txt']
+const messageFiles = ['./iraku.txt', './chillcamp.txt', './nightroom.txt', './asuu.txt', './mayko.txt', './mizushi.txt', './miruki.txt', './lesrenards.txt', './ayume.txt', './sakana.txt', './teyvat.txt', './yukiria.txt', './yumii.txt', './animefrance.txt', './kaori.txt']
 
 // Object contenant les messages déjà postés dans les canaux
 const sentMessages = {}
